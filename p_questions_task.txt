@@ -1,8 +1,0 @@
-Write a list of procedural and task-oriented questions about the following passage:
-
-PASSAGE:
-<<TEXT>>
-END PASSAGE
-
-PROCEDURAL AND TASK-ORIENTED QUESTIONS:
--

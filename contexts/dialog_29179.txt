@@ -1,3 +1,0 @@
-MAVERICK: Two.
-CHARLIE: Two miles.
-MAVERICK: Two meters.

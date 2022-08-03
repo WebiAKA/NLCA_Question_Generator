@@ -1,4 +1,0 @@
-AMANDA: Do you have a name?
-VICTOR: Victor.
-AMANDA: What?
-VICTOR: Victor.

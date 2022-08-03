@@ -1,3 +1,0 @@
-PARAMEDIC: Do you know where you are?
-TREVOR: Ambulance.
-PARAMEDIC: We're just gonna take some blood here.

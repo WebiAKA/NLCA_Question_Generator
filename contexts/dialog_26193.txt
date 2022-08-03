@@ -1,3 +1,0 @@
-PONY: You okay, man? You okay?
-BUFF: I didn't want to eat this much, man.
-PONY: Wait, I'll get you some air.

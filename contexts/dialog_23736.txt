@@ -1,4 +1,0 @@
-BERT: Introduce yourselves.
-JANET: I'm Janet Majors and this is my husband Brad.
-BERT: We've been hearing some bad things about you, Brad.
-JANET: He needs help.

@@ -1,3 +1,0 @@
-BERGER: Good.
-LASZLO: What is your name?
-BERGER: Berger, Norwegian, and at your service, sir.

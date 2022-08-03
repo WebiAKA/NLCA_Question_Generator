@@ -1,1 +1,0 @@
-How to drop column named ` I managed to create a column in my MySQL database named ` (the backtick character).  How can I delete it?  Is there a way to escape the backtick character in a query?

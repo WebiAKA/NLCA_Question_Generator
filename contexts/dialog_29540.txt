@@ -1,4 +1,0 @@
-KIRK: Spock?
-SPOCK: Welcome aboard, Captain.
-KIRK: Spock, I thought I was going to die.
-SPOCK: Not possible. You were never alone.

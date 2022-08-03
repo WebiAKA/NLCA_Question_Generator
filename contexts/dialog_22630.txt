@@ -1,3 +1,0 @@
-CARTER: Pick it up!
-LEE: It's your turn!
-CARTER: I don't need a turn!

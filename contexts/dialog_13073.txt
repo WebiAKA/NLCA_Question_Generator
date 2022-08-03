@@ -1,4 +1,0 @@
-MARY: What are you doing!
-BILL: I gotta open the gate.
-MARY: Drive through it!
-BILL: It won't work.

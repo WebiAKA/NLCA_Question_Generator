@@ -1,1 +1,0 @@
-How to access my usb drive in Windows Subsytem Linux Ubuntu How to access systems usb drive in Windows Subsytem Linux Ubuntu

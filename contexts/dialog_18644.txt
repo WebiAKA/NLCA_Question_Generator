@@ -1,3 +1,0 @@
-MUMFORD: Can I ask you a personal question?
-SKIP: Of course! That's exactly what I want.
-MUMFORD: Have you thought about getting a wife?

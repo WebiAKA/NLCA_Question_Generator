@@ -1,3 +1,0 @@
-DEALER: What kind of deal you looking to?
-JACK: What's the Blue Book price?
-DEALER: That's not relevant. An old car like this, it depends on the condition.

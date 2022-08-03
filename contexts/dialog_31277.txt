@@ -1,3 +1,0 @@
-HOCHSTETLER: Eli says you're a carpenter, Book.
-BOOK: It's been a while.
-HOCHSTETLER: No matter. Come with me. We can always use a good carpenter.

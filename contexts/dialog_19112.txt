@@ -1,7 +1,0 @@
-STAR: Hey, there - You seen my Winifred?
-KENNY: No.
-STAR: You got a place to stay?
-KENNY: No. Probably stay at a motel tonight.
-STAR: You in music?
-KENNY: No.
-STAR: Get in.

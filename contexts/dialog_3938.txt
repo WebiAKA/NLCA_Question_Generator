@@ -1,5 +1,0 @@
-ADAM: Good evening. I want to stay at this hotel.
-CLERK: Fill this out please. And I'll need a card.
-ADAM: A card?
-CLERK: Yes, sir.
-ADAM: Of course!

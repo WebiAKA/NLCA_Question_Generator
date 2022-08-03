@@ -1,1 +1,0 @@
-The author of the passage is asking if Azure SQL Data Sync supports syncing with MySQL or SQLExpress. They know that it syncs with SQL Server (2005 and later) but want to know if it is compatible with other types of databases. The author noted that they are able to connect to the server computer via SSMS but not when trying to use SQL Data Sync 2.0 application.

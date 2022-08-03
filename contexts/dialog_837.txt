@@ -1,3 +1,0 @@
-FAUST: Hey, guess what?
-STANDARD: What?
-FAUST: The engines are fixed.

@@ -1,3 +1,0 @@
-DATA: It appears to be... ... an arm.
-WORF: Why is it moving?
-DATA: Like me, it has been designed with modular power sources.

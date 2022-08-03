@@ -1,5 +1,0 @@
-RATH: Do you have a passport?
-ELECTRA: Several.
-RATH: Good.
-ELECTRA: Where is it?
-RATH: Mexico.

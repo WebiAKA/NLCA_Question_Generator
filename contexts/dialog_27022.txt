@@ -1,3 +1,0 @@
-THEO: Are you sure?
-NELL: I think so.
-THEO: Okay.

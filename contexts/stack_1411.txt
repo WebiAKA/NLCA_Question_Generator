@@ -1,1 +1,0 @@
-Current waveform electric motor Does electric motor reactance at given speed is constant according to rotor position (angle)?For switched reluctance it is not. But for three phase induction motor?Considering there is no any noise.

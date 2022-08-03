@@ -1,3 +1,0 @@
-JENKINS: We're all here, and ready sir!
-MARK: Jenkins!
-JENKINS: Good evening sir.

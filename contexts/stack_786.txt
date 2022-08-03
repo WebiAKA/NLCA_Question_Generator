@@ -1,1 +1,0 @@
-Re-Installing MYSQL database on a webserver without losing the settings Can you re-install MYSQL on an ubuntu server, without deleting the created databases, privileges and other settings? Thank you.

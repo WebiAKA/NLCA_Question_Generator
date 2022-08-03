@@ -1,5 +1,0 @@
-VOICE: How d'ya like your room!
-BARTON: ...Who is this?
-VOICE: Chet!
-BARTON: ...Who?
-VOICE: Chet! From downstairs!

@@ -1,4 +1,0 @@
-RENE: What is your name?
-AL: Don't give her your name.
-JOE: ...Joe.
-AL: No...you idiot!

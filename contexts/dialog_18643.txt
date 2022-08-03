@@ -1,3 +1,0 @@
-SKIP: Would you like another beer?
-MUMFORD: Nah... scotch.
-SKIP: Far out. Single malt? Can I pick it?

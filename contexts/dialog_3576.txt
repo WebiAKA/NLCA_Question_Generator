@@ -1,4 +1,0 @@
-NADIA: Do you like it?
-ALEXEI: Yeah.
-NADIA: Say thank you.
-ALEXEI: Thank you.

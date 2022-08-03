@@ -1,3 +1,0 @@
-ROBY: <u>He</u> died.
-FAUST: What?
-ROBY: Not <u>they</u>... <u>he</u>...

@@ -1,1 +1,0 @@
-Any correct procedure for couchbase backup and restore? I have just started using couchbase server and trying to configure backup and restore method. We require to take backup for each couchbase node or cluster backup also available ?

@@ -1,4 +1,0 @@
-PARRISH: 'Yes' what?
-VOICE: 'Yes' is the answer to your question.
-PARRISH: I didn't ask any question.
-VOICE: I believe you did.

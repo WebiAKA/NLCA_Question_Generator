@@ -1,3 +1,0 @@
-KAFKA: You work in the cemetery.
-BIZZLEBEK: A man must eat -- And drink.
-KAFKA: The <u>Castle</u> cemetery.

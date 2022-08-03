@@ -1,5 +1,0 @@
-TANNER: Voice activate.
-SYNTHETIC VOICE: Activated.
-TANNER: Program name?
-SYNTHETIC VOICE: Resurrection.
-TANNER: Describe program function.

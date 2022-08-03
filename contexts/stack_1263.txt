@@ -1,1 +1,0 @@
-Welcome message for oracle schema I want to display welcome message when ever a oracle schema try to login database using TOAD or PLSQL developer only

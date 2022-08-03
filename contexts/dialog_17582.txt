@@ -1,3 +1,0 @@
-ROPER: Manual or automatic?
-EARL: Automatic.
-ROPER: You got it.

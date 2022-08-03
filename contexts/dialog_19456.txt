@@ -1,4 +1,0 @@
-HUEY: Meet Irene.
-GENE: Hi.
-HUEY: Irene is going to help.
-GENE: Thank you.

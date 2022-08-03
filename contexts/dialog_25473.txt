@@ -1,4 +1,0 @@
-RIKER: Report!
-WORF: We've lost Bridge control!
-RIKER: Emergency override!
-WORF: Nothing.

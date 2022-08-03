@@ -1,3 +1,0 @@
-DATA: Do you know who I am?
-B-9: You are me.
-DATA: No. My name is Data... I am your brother.

@@ -1,1 +1,0 @@
-How to Reset OpenVPN password in ubuntu 16.04? Can anyone help me on how to reset the openVPN authentication password?Like the forget password feature in windows OS.

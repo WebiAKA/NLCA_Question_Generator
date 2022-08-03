@@ -1,5 +1,0 @@
-MASON: Ow!
-ARLO: 
-MASON: 
-ARLO: Are you all right?
-MASON: No.

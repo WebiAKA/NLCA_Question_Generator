@@ -1,1 +1,0 @@
-The passage talks about displays a welcome message for oracle schemas that login using TOAD or PLSQL developer only.

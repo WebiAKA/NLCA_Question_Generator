@@ -1,5 +1,0 @@
-DOYLE: Find out for me.
-MARVOSA: Fine...
-OFFICER: Captain there's someone here to see you - he's waiting in your office.
-DOYLE: Who is it?
-OFFICER: I don't know - but he's from the FBI.

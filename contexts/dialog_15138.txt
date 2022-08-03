@@ -1,3 +1,0 @@
-SENA: See this?
-RUBY: Yeah, what is it?
-SENA: _It's a second REM pattern_.

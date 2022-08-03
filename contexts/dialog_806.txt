@@ -1,3 +1,0 @@
-ROBY: Hello, Faust!
-FAUST: Yeah!
-ROBY: How's it coming on the engines?

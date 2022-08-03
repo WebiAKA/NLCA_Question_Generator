@@ -1,3 +1,0 @@
-TRINITY: Tank, you're hurt.
-TANK: I'll be all right.
-TRINITY: Dozer?

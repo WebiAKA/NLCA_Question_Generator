@@ -1,3 +1,0 @@
-BOB: Mornin, sister.
-CLAIRE: We missed you in Church today, Frank.
-BOB: Sister, I've just come from a <u>fire</u>...

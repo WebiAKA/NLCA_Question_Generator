@@ -1,4 +1,0 @@
-CORKY: Hey.
-VIOLET: Hey.
-CORKY: How'd it go?
-VIOLET: I'm here, aren't I?

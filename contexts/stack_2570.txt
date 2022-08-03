@@ -1,1 +1,0 @@
-Change Legend Right to Left Reading in QGIS I am a new QGIS user and i have a challenge to convert legend from right to left reading in QGIS like ArcGIS.

@@ -1,3 +1,0 @@
-NICK: No.
-ANNA: You sure?
-NICK: <u>Yes</u>.

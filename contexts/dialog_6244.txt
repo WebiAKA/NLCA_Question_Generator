@@ -1,3 +1,0 @@
-VINCENT: We have a deal. What's your name?
-MAX: Max.
-VINCENT: Max? I'm Vincent.

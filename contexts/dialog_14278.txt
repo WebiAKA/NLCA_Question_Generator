@@ -1,5 +1,0 @@
-JACKIE: Help yourself.
-DARGUS: While you're at it, let me see what else is in there. You mind?
-JACKIE: My pocketbook.
-DARGUS: What's in it?
-JACKIE: Beauty products.

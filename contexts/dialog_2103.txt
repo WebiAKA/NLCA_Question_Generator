@@ -1,3 +1,0 @@
-CONTRACTOR/SCREEN: Hello, Robert.
-RATH/SCREEN: The contract?
-CONTRACTOR/SCREEN: Paid in full.

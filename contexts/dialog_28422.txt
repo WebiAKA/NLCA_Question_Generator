@@ -1,3 +1,0 @@
-CHILDS: MacReady!
-MACREADY: Look, I'm just guessing...
-CHILDS: Well, go on.
