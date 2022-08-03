@@ -1,4 +1,0 @@
-What type of ANN are you using?
-What type of inputs are you using?
-Is your input data automatically scaled or manually scaled?
-What is the relative return for gold, SPX and Oil?

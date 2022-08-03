@@ -1,4 +1,0 @@
-What Linux OS are you using?
-Do you know what a terminal is?
-What do you mean by a console?
-Did you read the man page for gnome-terminal or xterm?

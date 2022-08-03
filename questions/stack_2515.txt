@@ -1,5 +1,0 @@
-The main question is what is the best way to do so?
-What is a Shapefile?
-Are the features plotted correctly on the map?
-Is the geoprocessing or loading error occurring as an event and if so, does changing the CRSs in any way allow for the error to be cleared?
-If yes, do all CRSs still display the same errors and is reprojection possible using alternative methods such as DB Manager?

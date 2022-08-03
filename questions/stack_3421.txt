@@ -1,6 +1,0 @@
-What file formats can be inserted into this Java application?
-What is the application's purpose?
-How do you access the database from this application?
-What is the location of the database on the machine?
-What does "symmetric encryption" mean?
-Is it possible to change data in a hidden database without decrypting it first, or accessing it on any other computers on the network, even if an attacker knows its location and has guessed its password?

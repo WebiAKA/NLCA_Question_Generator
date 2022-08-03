@@ -1,7 +1,0 @@
-What is the patient's diagnosis?
-What condition did the patient exhibit at discharge?
-How was the patient discharged?
-What are the follow up instructions for the patient?
-Which medications were dispensed to the patient upon discharge?
-What mental status changes occurred over time with this patient's hospital stay?
-What symptoms did he/she experience upon release from hospital care and how is he/she being referred to going forward in treatment?

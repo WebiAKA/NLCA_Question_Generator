@@ -1,4 +1,0 @@
-What's your goal?
-How many IP addresses do you have available?
-What kind of access do you want the VM to have to your network?
-What switch are you using on your laptop?

@@ -1,4 +1,0 @@
-What is the problem?
-How does one eject external drives?
-Why does the observer want to do this?
-What utilities/programs exist that could potentially solve this problem?
