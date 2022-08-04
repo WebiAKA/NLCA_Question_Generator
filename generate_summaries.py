@@ -32,7 +32,7 @@ def load_prompt(filename, payload):
         return body
 
 
-def completion(prompt, engine='davinci-instruct-beta', temp=0.8, top_p=0.95, tokens=200, freq_pen=0.5, pres_pen=0.5, stop=None):
+def completion(prompt, engine='davinci-instruct-beta', temp=0.8, top_p=0.95, tokens=4000, freq_pen=0.5, pres_pen=0.5, stop=None):
     try:
         response = openai.Completion.create(
             engine=engine,
@@ -49,13 +49,14 @@ def completion(prompt, engine='davinci-instruct-beta', temp=0.8, top_p=0.95, tok
         print('ERROR in completion function:', oops)
 
 for f in files:
-    
-    with open(dialoguedir + f, 'r', encoding='utf-8') as infile:
-        context = infile.read()
-    prompt = load_prompt(promptdir, context)
-    print('\n---------------------\n', prompt)
-    summary = completion(prompt)
-    print('\n', summary)
-    with open(outdir + f, 'w', encoding='utf-8') as outfile:
-        outfile.write(summary)
-    
+    try:
+        with open(dialoguedir + f, 'r', encoding='utf-8') as infile:
+            context = infile.read()
+        prompt = load_prompt(promptdir, context)
+        print('\n---------------------\n', prompt)
+        summary = completion(prompt)
+        print('\n', summary)
+        with open(outdir + f, 'w', encoding='utf-8') as outfile:
+            outfile.write(summary)
+    except Exception as oops:
+        print('ERROR in main loop:', f, oops)
