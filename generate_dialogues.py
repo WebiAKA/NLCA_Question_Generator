@@ -32,7 +32,7 @@ def load_prompt(filename, payload):
         return body
 
 
-def completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1, tokens=200, freq_pen=0.5, pres_pen=0.5,  stop=None):
+def completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1, tokens=600, freq_pen=0.5, pres_pen=0.5,  stop=None):
     try:
         response = openai.Completion.create(
             engine=engine,
@@ -68,6 +68,6 @@ for f in files:
                     outfile.write('Musio: ')
                     outfile.write(questions)
             except Exception as oops1:
-                print("Error while requesting GPT-3", f, oops)
+                print("Error while requesting GPT-3", f, oops1)
     except Exception as oops:
         print('ERROR in main loop:', f, oops)

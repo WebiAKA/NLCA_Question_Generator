@@ -149,7 +149,7 @@ colors
 shapes
 sizes
 numbers
-31.counting
+counting
 addition
 subtraction
 multiplication

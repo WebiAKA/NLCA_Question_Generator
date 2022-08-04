@@ -1,2 +1,2 @@
-Imagine a long conversation about <<TOPIC>> between an interviewer named Musio and an second grade English language student named user. Write a very long conversation on the given topic.
+Imagine a long conversation about <<TOPIC>> between an interviewer named Musio and a second grade English language student named user. Write a very long conversation on the given topic. Complete the conversation.
 Musio:

@@ -32,7 +32,7 @@ def load_prompt(filename, payload):
         return body
 
 
-def completion(prompt, engine='davinci-instruct-beta', temp=0.8, top_p=0.95, tokens=4000, freq_pen=0.5, pres_pen=0.5, stop=None):
+def completion(prompt, engine='davinci-instruct-beta', temp=0.8, top_p=0.95, tokens=600, freq_pen=0.5, pres_pen=0.5, stop=None):
     try:
         response = openai.Completion.create(
             engine=engine,
