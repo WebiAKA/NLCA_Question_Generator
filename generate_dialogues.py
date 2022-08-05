@@ -59,6 +59,9 @@ for f in files:
             topics = infile.read()
             topics = topics.split('\n')
         for topic in topics:
+            topic = topic.strip()
+            if not topic or '#' in topic: # skip over topics that are already used
+                continue
             try:
                 prompt = load_prompt(prompt_name, topic)
                 print('\n---------------------\n', prompt)
