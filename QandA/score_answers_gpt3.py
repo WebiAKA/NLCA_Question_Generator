@@ -12,7 +12,7 @@ openai.api_key = open_ai_api_key
 seed(42)
 csv_file_dir = '/Users/webby/Desktop/aka-files/working-dir/NLCA_Question_Generator/QandA/'
 prompt_dir = "/Users/webby/Desktop/aka-files/working-dir/NLCA_Question_Generator/QandA/"
-csv_filename = 'dialogue_data_scored.csv'
+csv_filename = 'dialogue_data.csv'
 out_filename = 'dialogue_data_scored.csv'
 prompt_name = 'score_answer_prompt.txt'
 
