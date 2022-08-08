@@ -1,0 +1,7 @@
+Imagine a scoring system on the scale of 0,1 and 2 for grammatical analysis of an English student. Give an integer score for the following answer for the respective question. 
+
+Question: <<QUESTION>>
+
+Student: <<ANSWER>>
+
+Score: 
